@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.testng:testng:7.4.0">
+    <CLASSES>
+      <root url="jar://F:/IntelliJ IDEA 2020.3.2/software/apache-maven-3.5.0/repository/org/testng/testng/7.4.0/testng-7.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/IntelliJ IDEA 2020.3.2/software/apache-maven-3.5.0/repository/org/testng/testng/7.4.0/testng-7.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/IntelliJ IDEA 2020.3.2/software/apache-maven-3.5.0/repository/org/testng/testng/7.4.0/testng-7.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
